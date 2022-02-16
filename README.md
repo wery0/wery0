@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @wery0, first year HSE student. Interested in CS and math.
+
+<!---
+wery0/wery0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
