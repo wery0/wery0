@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wery0, HSE student. Interested in CS, math, backend.
+- HSE AMI second-year student. Interested in CS, math, backend.
 
 <!---
 wery0/wery0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
